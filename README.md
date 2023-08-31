@@ -1,3 +1,3 @@
-# MAX Exchange Trader
-## Introduction
-MAX Exchange Trader is a trading bot for MAX Exchange. It is written in Python and uses the MAX Exchange API to place orders.
+# Strategy factory
+## Description
+This is a factory for strategies. It is used to create strategies for the trading bot.
